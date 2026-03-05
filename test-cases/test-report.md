@@ -1,4 +1,4 @@
-# 📄 Test Report – Book Application
+# Test Report – Book Application
 
 **Tested By:** Subathira Kandasamy  
 **Date:** [2026-03-05]  
@@ -9,7 +9,7 @@
 
 ---
 
-## 1️⃣ Summary
+## 1. Summary
 
 This report summarizes the results of the testing conducted on the Book App. The app allows users to:
 
@@ -24,7 +24,7 @@ This report summarizes the results of the testing conducted on the Book App. The
 
 ---
 
-## 2️⃣ Test Coverage of Key Use Cases
+## 2. Test Coverage of Key Use Cases
 
 | Feature Tested                   | Test Type         | Status        | Notes                                   |
 |----------------------------------|-----------------|------------------|----------------------------------------|
@@ -36,7 +36,7 @@ This report summarizes the results of the testing conducted on the Book App. The
 
 ---
 
-## 3️⃣ Bugs / Issues Found
+## 3. Bugs / Issues Found
 
 | Bug ID | Description                                          | Severity | Status  |
 |--------|------------------------------------------------------|----------|---------|
@@ -51,7 +51,7 @@ This report summarizes the results of the testing conducted on the Book App. The
 |Bug-009 | Security realted - Able to access internal directory structure via some links | Major | TO DO
 |Bug-010 | Some functionalities are stagnant and not complete (affects user experience)| Major | TO DO
 
-## 4️⃣ Observations / Feedback
+## 4. Observations / Feedback
 
 ### **What I liked the most:**
 - The app provides **basic and advanced search**, making it flexible for users.
@@ -82,6 +82,6 @@ This report summarizes the results of the testing conducted on the Book App. The
 
 ---
 
-## 5️⃣ Conclusion
+## 5. Conclusion
 
 The Book App is stable and ficntions on a basic level, covering the main use cases of browsing, searching, and managing books. UI/UX improvements and additional features would enhance the user experience further.  
