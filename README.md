@@ -111,7 +111,7 @@ README.md
 
 ## Configuration
 
-Make sure to add a <b>User.json</b> file with the details of your username and password.
+Make sure to add a <b>User.json</b> file to the <b>Cypress/Fixtures/</b> directory with the details of your username and password.
 ```bash
 { 
 "username": "Johndoe"
